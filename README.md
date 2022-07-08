@@ -6,7 +6,7 @@
 
 --> For use this app click this Link
 
-Link: dhruv-weather-app.netlify.app
+Link: ✔[The weather app](dhruv-weather-app.netlify.app)
 
 Thank You :)
 
